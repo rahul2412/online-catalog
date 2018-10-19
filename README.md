@@ -1,7 +1,7 @@
 # Item Catalog
 
 ### Project Overview
-To Develop an application that provides a list of items within a variety of categories as well as to provide a user registration and authentication system ( like gmail) . Registered users will have the ability to post, edit and delete their own items.
+To develop a RESTful web application that provides CRUD (Create, Read, Update, Delete) operations to a user. User will be authenticated via gmail using OAuth 2.0 protocol . Registered users will have the ability to create, edit and delete only their own items.
 
 ### What Will I Learn?
   * Develop a RESTful web application using the Python framework Flask
